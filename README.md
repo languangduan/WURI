@@ -1,8 +1,7 @@
-# Anonymous Code Release
+# WURI: Watching Unfolding Risk in Agent Interactions
 
 This repository contains code for preprocessing multi-source trajectory data, training a representation-based prefix monitor, and running prefix-level evaluation.
 
-The code is organized for anonymous review. No author or affiliation information is included.
 
 ---
 
